@@ -1,4 +1,4 @@
-# virtualization
+# Virtualization
 Virtualization Notes
 
 ## Environment Setup and Management
